@@ -6,7 +6,7 @@ hide:
 
 > Data Engineer Intern
 
-### 1. Informações de contanto e perfis
+### 1. Informações de contato e perfis
 
 * Email: luccanrib@gmail.com
 * **Whatsapp** / Telegram: +55 11 97436-9415
