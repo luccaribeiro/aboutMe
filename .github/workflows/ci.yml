@@ -1,0 +1,21 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+      - gh-pages
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+            python-version: 3.x
+      - run: pip install -r requirements.txt
+      - run: mkdocs gh-deploy --force
