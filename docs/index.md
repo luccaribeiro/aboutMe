@@ -60,16 +60,20 @@ ETL
 ### 5. Projetos
 
 #### 1. TwitterClone - Django
-##### <a href="https://github.com/luccaribeiro/Twitter-Clone">Link do repositorio para saber mais</a>
+<a href="https://github.com/luccaribeiro/Twitter-Clone">Link do repositorio para saber mais</a>
+
 ![twitter](https://user-images.githubusercontent.com/104439599/215157069-4871f2dc-557a-450e-91dc-692d0b03ceef.jpeg)
 #### 2. Simulador de combate - Vue js
-##### <a href="https://github.com/luccaribeiro/simulador-batalha">Link do repositorio para saber mais</a>
+<a href="https://github.com/luccaribeiro/simulador-batalha">Link do repositorio para saber mais</a>
+
 ![simulador_combate](https://user-images.githubusercontent.com/104439599/215160423-5efbdfb6-3c0b-4876-995f-2a36017ab45e.png)
 #### 3. Desafio Calendario - Java script
-##### <a href="https://github.com/luccaribeiro/Desafio-Calendario">Link do repositorio para saber mais</a>
+<a href="https://github.com/luccaribeiro/Desafio-Calendario">Link do repositorio para saber mais</a>
+
 ![calendario](https://user-images.githubusercontent.com/104439599/215160454-2f8504b4-993f-4c81-a18d-c55a24295557.png)
 #### 4. Snake Game - Python
-##### <a href="https://github.com/luccaribeiro/Snake-game">Link do repositorio para saber mais</a>
+<a href="https://github.com/luccaribeiro/Snake-game">Link do repositorio para saber mais</a>
+
 ![snake-game](https://user-images.githubusercontent.com/104439599/215160503-9ab19abd-8095-454b-9fd1-6df7d691c8f6.png)
 
 
