@@ -16,7 +16,7 @@ hide:
 
 ### 2. Sobre mim
 >Olá, sou o Lucca!<br>
->Atualmente sou um engenheiro de dados estagiario na Buser. Meu principal trabalho atualmente é a transferência de jobs do databricks para o airflow com o objetivo de reduzir custos. <br>
+>Atualmente sou um engenheiro de dados estagiario na Buser.<br>
 >Meu objetivo no momento é me aprimorar cada vez mais nessa area de dados por isso estou estudando tecnologias como Spark e AWS.
 
 
